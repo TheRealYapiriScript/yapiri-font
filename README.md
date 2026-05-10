@@ -1,6 +1,6 @@
 # Yapiri Script — Official Font Repository
 
-**Yapiri** (ꯌꯥꯄꯤꯔꯤ · *footprints*) is an original writing system created for the **Kokborok language** of the Borok people of Tripura, India.
+**Yapiri** (*footprints*) is an original writing system created for the **Kokborok language** of the Borok people of Tripura, India.
 
 This repository contains the official Yapiri font files, character specifications, and supporting resources.
 
