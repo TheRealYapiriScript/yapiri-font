@@ -1,6 +1,6 @@
 # Yapiri Script — Official Font Repository
 
-**Yapiri** (*footprints*) is an original writing system created for the **Kokborok language** of the Borok people of Tripura, India.
+**Yapiri** (*footprints*) is an original writing system created for the **Kokborok language** of the Borok people of Tripura, across Northeast India and parts of Bangladesh.
 
 This repository contains the official Yapiri font files, character specifications, and supporting resources.
 
@@ -8,11 +8,11 @@ This repository contains the official Yapiri font files, character specification
 
 ## About Yapiri
 
-Kokborok is the native language of the Borok (Tripuri) people, spoken by over 1 million people in Tripura and across Northeast India. Despite its rich oral tradition, Kokborok has historically lacked a widely adopted native script.
+Kokborok is the native language of the Borok (Tripuri) people, spoken by over 1 million people in Tripura, across Northeast India and parts of Bangladesh. Despite its rich oral tradition, Kokborok has historically lacked a widely adopted native script.
 
 Yapiri was designed to fill that gap — a script built from the ground up to match Kokborok phonology, with clean geometric aesthetics suited for both print and digital use.
 
-The name *Yapiri* means **"footprints"** in Kokborok — each character a step toward reclaiming the written voice of the language.
+The name *Yapiri*(also Yaphiri) means **"footprints"** in Kokborok — each character a step toward reclaiming the written voice of the language.
 
 ---
 
@@ -22,7 +22,7 @@ The name *Yapiri* means **"footprints"** in Kokborok — each character a step t
 - Consonants, vowels, numerals (0–9 + standalone 10), punctuation, and diacritics
 - Private Use Area encoding: **U+E000 – U+E02F**
 - OpenType GPOS mark-to-base diacritic positioning
-- Six kerning classes with optimized spacing
+- Kerning with optimized spacing
 - Clean, geometric design suitable for body text and display use
 
 ---
